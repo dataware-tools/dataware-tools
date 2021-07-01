@@ -44,4 +44,4 @@ maintained in [dataware-tools/manifests](https://github.com/dataware-tools/manif
 
 
 ## Where can I get more help?
-Please contact [contact@dataware-tools.com](mailto:contact@dataware-tools.com).
+Please contact [contact@hdwlab.co.jp](mailto:contact@hdwlab.co.jp).
